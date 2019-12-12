@@ -1,0 +1,20 @@
+---
+title: 'DTU - Time Series Analysis - Assignment 2: ARMA Processes and Seasonal Processes'
+author: "Emma Demarecaux (s176437)"
+date: "15/03/2018"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+The study has been elaborated in colaboration with Ad?lie Marie Kookai Barre (s170075). 
+
+#Question 2.1: Stability
+
+##2.1.1
+
+# <font color='green'>   Preliminaries </font> 
+
